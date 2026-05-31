@@ -14,19 +14,20 @@ def load_config():
 
 
 def archidekt_login(username, password):
-    response = requests.post(
+    session = requests.Session()
+    response = session.post(
         'https://archidekt.com/api/rest-auth/login/',
         json={'username': username, 'password': password}
     )
     response.raise_for_status()
-    token = response.json().get('key')
-    if not token:
-        raise ValueError("Login succeeded but no token returned.")
-    return token
+    data = response.json()
+    token = data.get('key') or data.get('token') or data.get('access') or data.get('access_token')
+    if token:
+        session.headers.update({'Authorization': f'Token {token}'})
+    return session
 
 
-def add_to_maybeboard(deck_id, card_names, token):
-    headers = {'Authorization': f'Token {token}'}
+def add_to_maybeboard(deck_id, card_names, session):
     succeeded = []
     failed = []
     for name in card_names:
@@ -35,15 +36,14 @@ def add_to_maybeboard(deck_id, card_names, token):
             'quantity': 1,
             'categories': [{'name': 'Maybeboard', 'includedInDeck': False}],
         }
-        response = requests.post(
+        response = session.post(
             f'https://archidekt.com/api/decks/{deck_id}/cards/',
             json=payload,
-            headers=headers
         )
         if response.ok:
             succeeded.append(name)
         else:
-            failed.append(name)
+            failed.append((name, response.status_code, response.text))
     return succeeded, failed
 
 
@@ -206,14 +206,14 @@ def prompt_maybeboard(sorted_missing, deck_id, config):
 
     print("\nLogging in to Archidekt...")
     try:
-        token = archidekt_login(username, password)
+        session = archidekt_login(username, password)
     except Exception as e:
         print(f"  Login failed: {e}")
         return
     print("  Logged in.")
 
     print("Adding cards to Maybeboard...")
-    succeeded, failed = add_to_maybeboard(deck_id, [c['name'] for c in selected], token)
+    succeeded, failed = add_to_maybeboard(deck_id, [c['name'] for c in selected], session)
 
     if succeeded:
         print(f"\nSuccessfully added ({len(succeeded)}):")
@@ -221,8 +221,8 @@ def prompt_maybeboard(sorted_missing, deck_id, config):
             print(f"  {name}")
     if failed:
         print(f"\nFailed to add ({len(failed)}):")
-        for name in failed:
-            print(f"  {name}")
+        for name, status, body in failed:
+            print(f"  {name}  →  HTTP {status}: {body}")
 
 
 def main():
