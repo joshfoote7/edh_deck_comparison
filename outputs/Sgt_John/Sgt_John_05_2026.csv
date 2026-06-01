@@ -1,0 +1,190 @@
+Category,Card Name,Price (USD),Inclusion,Synergy,Trend,EDHREC Sections,Note
+Buffs instant,Invigorate,$0.30,80%,78%,+0.12,highsynergycards,
+Buffs instant,Groundswell,$0.40,72%,71%,-0.33,highsynergycards,
+Buffs instant,Giant Growth,$0.28,71%,69%,+0.05,highsynergycards,
+Buffs instant,Blossoming Defense,$0.24,70%,68%,-0.53,highsynergycards,
+Buffs instant,Flare of Faith,$0.20,67%,66%,-0.83,highsynergycards,
+Buffs instant,Tyvar's Stand,$0.51,62%,59%,+0.86,highsynergycards,
+Buffs instant,Vines of Vastwood,$1.39,59%,58%,+0.47,topcards,
+Buffs instant,Snakeskin Veil,$0.28,66%,58%,-0.09,topcards,
+Buffs instant,Ram Through,$0.42,60%,57%,-0.08,topcards,
+Buffs instant,"Inner Calm, Outer Strength",$0.21,46%,45%,-0.35,instants,
+Buffs instant,Titanic Growth,$0.27,44%,43%,+0.03,instants,
+Buffs instant,Mutagenic Growth,$3.03,41%,40%,+0.72,instants,
+Buffs instant,Primal Bellow,$0.42,27%,26%,-0.24,instants,
+Buffs instant,Wing It,$0.15,27%,26%,-0.97,instants,
+Buffs instant,Arrester's Zeal,$0.16,24%,24%,-0.16,instants,
+Buffs instant,Adamant Will,$0.13,23%,22%,-2.11,instants,
+Buffs instant,Prey's Vengeance,$0.13,16%,16%,+0.00,instants,
+Buffs instant,Flawless Maneuver,$21.91,18%,5%,-0.03,instants,
+Buffs instant,Heroic Intervention,$14.13,18%,-18%,-0.49,instants,
+Buffs sorcery,Exponential Growth,$0.49,15%,15%,-1.06,sorceries,
+Buffs sorcery,Monstrous Growth,$0.07,9%,8%,+0.00,sorceries,
+Commander,Sergeant John Benton,$1.05,,,,,Not on EDHREC page
+Commander Protection,Wild Defiance,$0.65,58%,57%,-0.63,topcards,
+Commander Protection,Tamiyo's Safekeeping,$5.75,47%,41%,+1.47,instants,
+Commander Protection,Empyrial Plate,$1.48,34%,33%,-0.04,utilityartifacts,
+Commander Protection,Bastion Protector,$1.11,35%,30%,-0.27,creatures,
+Commander Protection,Guardian Augmenter,$1.32,24%,23%,+0.17,creatures,
+Commander Protection,Bear Umbra,$10.48,23%,15%,-0.42,enchantments,
+Commander Protection,Grand Abolisher,$15.77,21%,13%,+1.17,creatures,
+Commander Protection,Mother of Runes,$12.13,16%,9%,+1.16,creatures,
+Commander Protection,Brotherhood Regalia,$7.77,7%,6%,+0.13,utilityartifacts,
+Commander Protection,Champion's Helm,$2.57,6%,5%,+0.06,utilityartifacts,
+Commander Protection,Canopy Cover,$3.89,5%,4%,+0.16,enchantments,
+Commander Protection,Galadriel's Dismissal,$26.79,,,,,Not on EDHREC page
+Commander Protection,Silver Shroud Costume,—,,,,,Not on EDHREC page
+Commander Protection,Rebuff the Wicked,$7.53,,,,,Not on EDHREC page
+Commander Protection,Robe of Stars,$13.93,,,,,Not on EDHREC page
+Counters,Gift of the Viper,$0.24,34%,30%,-0.14,instants,
+Counters,Power Fist,$12.62,6%,5%,+0.19,utilityartifacts,
+Double Strike,Duelist's Heritage,$6.67,69%,64%,-0.13,highsynergycards,
+Double Strike,Flaming Fist,$0.18,57%,55%,-0.49,topcards,
+Group Hug,Scrawling Crawler,$5.51,13%,12%,+0.66,creatures,
+Group Hug,Giggling Skitterspike,$11.80,,,,,Not on EDHREC page
+Group Hug,Silent Gravestone,$0.33,,,,,Not on EDHREC page
+Group Hug,Tajuru Preserver,$3.50,,,,,Not on EDHREC page
+Land,Reliquary Tower,$2.82,84%,55%,+0.82,utilitylands,
+Land,Rogue's Passage,$0.34,47%,23%,-0.20,utilitylands,
+Land,Sungrass Prairie,$0.21,48%,15%,+0.00,lands,
+Land,Riftstone Portal,$2.67,11%,10%,+0.00,lands,
+Land,Command Tower,$0.29,86%,3%,+0.00,lands,
+Land,Forest,—,99%,1%,+0.00,lands,
+Land,Plains,—,99%,1%,+0.00,lands,
+Land,Canopy Vista,$0.33,60%,-5%,+0.00,lands,
+Land,Temple Garden,$7.66,38%,-7%,+0.00,lands,
+Land,Hall of Oracles,$0.21,,,,,Not on EDHREC page
+Land,Nesting Grounds,$0.18,,,,,Not on EDHREC page
+Maybeboard,Become Immense,$0.23,67%,66%,-0.61,highsynergycards,
+Maybeboard,Embiggen,$0.24,55%,54%,-0.15,instants,
+Maybeboard,Kaya's Onslaught,$0.12,48%,47%,-1.34,instants,
+Maybeboard,Scent of Ivy,$0.17,47%,46%,+0.00,instants,
+Maybeboard,Loran's Escape,$1.31,46%,44%,-0.28,instants,
+Maybeboard,Single Combat,$0.45,46%,44%,-0.55,sorceries,
+Maybeboard,Empyrial Armor,—,44%,43%,-0.53,enchantments,
+Maybeboard,Crumb and Get It,$0.16,43%,41%,-0.37,instants,
+Maybeboard,Arboreal Grazer,$0.29,43%,40%,-1.59,creatures,
+Maybeboard,Swell of Growth,$0.10,38%,37%,-0.72,instants,
+Maybeboard,Promise of Loyalty,$0.26,40%,37%,-0.97,sorceries,
+Maybeboard,Take Up the Shield,$0.21,37%,35%,-0.56,instants,
+Maybeboard,Fyndhorn Elves,$2.64,46%,34%,+0.47,creatures,
+Maybeboard,Blacksmith's Skill,$0.34,36%,34%,-0.47,instants,
+Maybeboard,Scale Up,$0.54,35%,34%,+0.21,sorceries,
+Maybeboard,Skyshroud Ranger,$2.49,32%,31%,-0.82,creatures,
+Maybeboard,Bounty of the Hunt,—,32%,31%,+0.00,instants,
+Maybeboard,Hyena Umbra,$0.37,34%,31%,+0.25,enchantments,
+Maybeboard,Elvish Spirit Guide,$2.49,33%,30%,+0.53,creatures,
+Maybeboard,Broken Bond,$0.38,30%,29%,-0.56,sorceries,
+Maybeboard,Might of Oaks,$0.35,27%,27%,-0.22,instants,
+Maybeboard,Sakura-Tribe Scout,$2.63,27%,26%,-0.50,creatures,
+Maybeboard,Psychosis Crawler,$2.87,26%,25%,+0.28,creatures,
+Maybeboard,Ranger's Guile,$0.26,24%,24%,+0.46,instants,
+Maybeboard,Hand of Vecna,$0.34,24%,24%,+0.91,utilityartifacts,
+Maybeboard,Choose Your Weapon,$0.23,24%,23%,-0.43,instants,
+Maybeboard,Solitary Confinement,$0.51,19%,16%,-0.37,enchantments,
+Maybeboard,Basilisk Collar,$4.01,13%,10%,-0.06,utilityartifacts,
+Maybeboard,Belt of Giant Strength,$3.15,8%,7%,+0.41,utilityartifacts,
+Maybeboard,Badgermole Cub,$52.91,,,,,Not on EDHREC page
+Maybeboard,Bag of Holding,$0.29,,,,,Not on EDHREC page
+Maybeboard,Bilbo's Ring,$15.00,,,,,Not on EDHREC page
+Maybeboard,Dancer's Chakrams,$0.30,,,,,Not on EDHREC page
+Maybeboard,Divine Smite,$0.18,,,,,Not on EDHREC page
+Maybeboard,Familiar Ground,$0.55,,,,,Not on EDHREC page
+Maybeboard,Frenzied Baloth,$1.47,,,,,Not on EDHREC page
+Maybeboard,Genji Glove,$5.89,,,,,Not on EDHREC page
+Maybeboard,Gerrard's Command,$0.20,,,,,Not on EDHREC page
+Maybeboard,Insidious Fungus,$0.43,,,,,Not on EDHREC page
+Maybeboard,Jade Monolith,—,,,,,Not on EDHREC page
+Maybeboard,Loading Zone,$1.36,,,,,Not on EDHREC page
+Maybeboard,"Mavinda, Students' Advocate",$0.70,,,,,Not on EDHREC page
+Maybeboard,Primal Amulet // Primal Wellspring,—,,,,,Not on EDHREC page
+Maybeboard,Soltari Lancer,—,,,,,Not on EDHREC page
+Maybeboard,The Aetherspark,$19.97,,,,,Not on EDHREC page
+Maybeboard,Treetop Bracers,$0.29,,,,,Not on EDHREC page
+Maybeboard,Wielding the Green Dragon,$5.28,,,,,Not on EDHREC page
+Maybeboard,Unnatural Growth,$3.08,,,,,Not on EDHREC page
+Maybeboard,Evolution Charm,$0.31,,,,,Not on EDHREC page
+Maybeboard,Fragmentize,$0.30,,,,,Not on EDHREC page
+Maybeboard,"Gilraen, Dúnedain Protector",$0.36,,,,,Not on EDHREC page
+Maybeboard,Key to the City,$0.96,,,,,Not on EDHREC page
+Maybeboard,Return to Nature,$0.24,,,,,Not on EDHREC page
+Maybeboard,Scrap Trawler,$2.74,,,,,Not on EDHREC page
+Maybeboard,Silent Arbiter,$13.44,,,,,Not on EDHREC page
+Maybeboard,Suspicious Bookcase,$0.34,,,,,Not on EDHREC page
+Maybeboard,Bridgeworks Battle // Tanglespan Bridgeworks,—,,,,,Not on EDHREC page
+Ramp,Summer Bloom,$1.79,62%,60%,-1.63,highsynergycards,
+Ramp,Wild Growth,$0.42,67%,47%,-0.71,topcards,
+Ramp,Llanowar Elves,$0.31,76%,47%,+0.55,topcards,
+Ramp,Elvish Mystic,$0.40,68%,46%,-0.78,topcards,
+Ramp,Thought Vessel,$2.65,55%,46%,+0.00,manaartifacts,
+Ramp,Avacyn's Pilgrim,$0.65,74%,39%,+0.37,topcards,
+Ramp,Utopia Sprawl,$1.53,51%,32%,-0.03,enchantments,
+Ramp,Arbor Elf,$0.87,38%,31%,-1.88,creatures,
+Ramp,"Azusa, Lost but Seeking",$12.11,32%,29%,+1.10,creatures,
+Ramp,Birds of Paradise,$15.64,41%,18%,+0.45,creatures,
+Ramp,Rampant Growth,$0.41,17%,-17%,-0.67,sorceries,
+Ramp,Nightshade Dryad,$0.23,,,,,Not on EDHREC page
+Recursion,Regrowth,$0.53,5%,4%,-0.36,sorceries,
+Recursion,Reclaim,$0.16,,,,,Not on EDHREC page
+Removal,Collective Resistance,$0.92,16%,13%,+1.27,instants,
+Removal,Reprieve,$1.28,19%,12%,+0.27,instants,
+Removal,Generous Gift,$1.56,34%,2%,-2.52,instants,
+Removal,Beast Within,$0.44,32%,-5%,-1.36,instants,
+Removal,Path to Exile,$1.04,47%,-7%,+0.92,instants,
+Sideboard,Might of Old Krosa,$0.20,66%,65%,-0.74,highsynergycards,
+Sideboard,Overprotect,$0.84,56%,54%,+0.69,instants,
+Sideboard,Rustler Rampage,$0.20,50%,49%,-0.03,instants,
+Sideboard,Phytoburst,$0.11,46%,45%,+0.19,sorceries,
+Sideboard,Spellbook,$3.90,46%,45%,+0.93,utilityartifacts,
+Sideboard,Royal Treatment,$0.45,46%,44%,-0.92,instants,
+Sideboard,Tifa's Limit Break,$0.32,37%,36%,+1.61,instants,
+Sideboard,Decanter of Endless Water,$4.37,24%,21%,+0.00,manaartifacts,
+Sideboard,Fog,$1.33,27%,20%,-0.78,instants,
+Sideboard,Nostalgic Dreams,—,20%,19%,-0.99,sorceries,
+Sideboard,Stonewood Invocation,$1.08,16%,15%,-0.92,instants,
+Sideboard,Nature's Claim,$1.12,22%,15%,-0.12,instants,
+Sideboard,"Kutzil, Malamet Exemplar",$3.55,43%,10%,+0.25,creatures,
+Sideboard,Blackblade Reforged,$3.62,10%,8%,-1.10,utilityartifacts,
+Sideboard,"Trostani, Three Whispers",$0.37,8%,6%,-0.34,creatures,
+Sideboard,Alpha Authority,$2.62,7%,5%,+0.97,enchantments,
+Sideboard,Darksteel Mutation,$0.52,6%,-5%,+0.20,enchantments,
+Sideboard,Nature's Lore,$2.25,12%,-16%,-0.10,sorceries,
+Sideboard,Aether Web,$0.14,,,,,Not on EDHREC page
+Sideboard,Beaming Defiance,$0.13,,,,,Not on EDHREC page
+Sideboard,Dauntless Dismantler,$0.28,,,,,Not on EDHREC page
+Sideboard,Formidable Speaker,$9.32,,,,,Not on EDHREC page
+Sideboard,Gossamer Chains,$0.16,,,,,Not on EDHREC page
+Sideboard,Ground Seal,$0.25,,,,,Not on EDHREC page
+Sideboard,High Stride,$0.13,,,,,Not on EDHREC page
+Sideboard,Medicine Runner,$0.18,,,,,Not on EDHREC page
+Sideboard,Mirror Box,$4.95,,,,,Not on EDHREC page
+Sideboard,Prowler's Helm,$0.60,,,,,Not on EDHREC page
+Sideboard,Relic of Progenitus,$5.70,,,,,Not on EDHREC page
+Sideboard,Riding Red Hare,$11.66,,,,,Not on EDHREC page
+Sideboard,Solemnity,$11.19,,,,,Not on EDHREC page
+Sideboard,Suncleanser,$0.47,,,,,Not on EDHREC page
+Sideboard,Super State,$19.17,,,,,Not on EDHREC page
+Sideboard,Surge of Salvation,$0.80,,,,,Not on EDHREC page
+Sideboard,Sword of Feast and Famine,$39.03,,,,,Not on EDHREC page
+Sideboard,Thraben Charm,$0.33,,,,,Not on EDHREC page
+Sideboard,"Urdnan, Dromoka Warrior",$0.33,,,,,Not on EDHREC page
+Sideboard,Virtue of Strength // Garenbrig Growth,—,,,,,Not on EDHREC page
+Sideboard,Well Rested,$2.81,,,,,Not on EDHREC page
+Sideboard,Wheel of Sun and Moon,$2.96,,,,,Not on EDHREC page
+Sideboard,Venerated Rotpriest,$1.57,,,,,Not on EDHREC page
+Sideboard,Grafdigger's Cage,$2.93,,,,,Not on EDHREC page
+Sideboard,Innkeeper's Talent,$9.64,,,,,Not on EDHREC page
+Sideboard,Poison Dart Frog,$0.33,,,,,Not on EDHREC page
+Sideboard,Power Conduit,$9.29,,,,,Not on EDHREC page
+Sideboard,Privileged Position,$4.88,,,,,Not on EDHREC page
+Sideboard,Seedtime,$13.22,,,,,Not on EDHREC page
+Sideboard,"Selvala, Heart of the Wilds",$2.81,,,,,Not on EDHREC page
+Sideboard,Sheltering Word,$0.19,,,,,Not on EDHREC page
+Sideboard,Soul-Guide Lantern,$0.27,,,,,Not on EDHREC page
+Sideboard,Spirit of the Labyrinth,$0.77,,,,,Not on EDHREC page
+Sideboard,Stony Silence,$1.66,,,,,Not on EDHREC page
+Sideboard,Winds of Abandon,$5.08,,,,,Not on EDHREC page
+Sideboard,Wrap in Vigor,$1.08,,,,,Not on EDHREC page
+Tokens,"Jolrael, Mwonvuli Recluse",$0.16,7%,6%,-0.40,creatures,
+Tutor,Enlightened Tutor,$36.63,6%,-8%,+0.28,gamechangers,
+Untap,Drumbellower,$1.76,,,,,Not on EDHREC page
